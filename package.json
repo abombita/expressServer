@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/abombita/expressServer/issues"
   },
-  "homepage": "https://github.com/abombita/expressServer#readme"
+  "homepage": "https://github.com/abombita/expressServer#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
